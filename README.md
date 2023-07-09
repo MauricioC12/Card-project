@@ -8,7 +8,7 @@ This is a solution to the Product preview card component challenge on Frontend M
 
 ## Links!
 
-  - Solution URL: (https://www.frontendmentor.io/solutions/product-card-responsive-component-ce4xyyIZIN)
+  - Solution URL: https://mauricioc12.github.io/Card-project/
   
 ## My process
 
